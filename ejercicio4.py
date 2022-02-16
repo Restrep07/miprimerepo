@@ -1,5 +1,5 @@
 import random
-
+#lista
 
 def listaAleatorios(n):
       lista = [0]*n  
